@@ -1,0 +1,12 @@
+/* 
+  Infoplist.strings
+  LaunchScreen
+
+  Created by Fei Cao on 16/2/2.
+  Copyright © 2016年 wxiao. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "时尚日记";
+
+//不加引号也可以
+//CFBundleDisplayName = "时尚日记";
